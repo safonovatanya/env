@@ -1,0 +1,19 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/safonovatanya/ahj-homeworks/tree/master/env",
+  "author": "Tanya",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "babel-loader": "^8.0.6",
+    "core-js": "3",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "webpack": "^4.41.6",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
