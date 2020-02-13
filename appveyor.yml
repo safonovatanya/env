@@ -1,0 +1,5 @@
+version: 1.0.{build}
+environment:
+  GITHUB_TOKEN: f28109e404002de2c83a03454b275c22086bc203
+build:
+  verbosity: minimal
