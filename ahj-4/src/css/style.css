@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.img-cards {
+  display: flex;
+}
+
+.img-card {
+  opacity: 0.4;
+}
+
+.valid {
+  border-color: #008000;
+}
+
+#input {
+  border-width: 3px;
+}
+
+.invalid {
+  border-color: #ff0000;
+}
